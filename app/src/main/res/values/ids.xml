@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id"></item>
+    <item name="name" type="id"></item>
+    <item name="email" type="id"></item>
+    <item name="id" type="id"></item>
+    <item name="signout" type="id"></item>
+</resources>
